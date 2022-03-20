@@ -1,5 +1,16 @@
-### Hi there 👋
+# Hi there 👋, im Timur
+## Im
+* Student
+* Developer
+* ~~Bread~~ Human
+## Language
+0. C++
+1. Russia
+2. English
 
+**<span style="color:red">
+Help me
+</span>**
 <!--
 **CharlyBread/CharlyBread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
