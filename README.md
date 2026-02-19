@@ -5,7 +5,7 @@
 * ~~Bread~~ Human
 ## Language
 0. C++
-1. Russia
+1. Russian
 2. English
 
 **<span style="color:red">
